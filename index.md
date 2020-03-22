@@ -1,3 +1,5 @@
+{% include cv-lang.html %}
+
 ---
 layout: cv
 title: Resume

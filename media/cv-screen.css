@@ -152,3 +152,16 @@ li {
 #contact-info a {
 	text-decoration: none;
 }
+
+#lang-info {
+	text-align: left;
+	position: relative;
+	font-weight: lighter;
+	color: #ccc;
+	/* font-family: Menlo,monospace,sans-serif; */
+	font-size: 60%;
+}
+
+#lang-info a {
+	text-decoration: none;
+}

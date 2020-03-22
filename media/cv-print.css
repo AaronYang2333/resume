@@ -155,3 +155,15 @@ li {
 	h2 {page-break-after: avoid;}
 	h3 {page-break-after: avoid;}
 }
+
+#lang-info {
+	text-align: left;
+	position: relative;
+	font-weight: lighter;
+	color: #ccc;
+	/* font-family: Menlo,monospace,sans-serif; */
+}
+
+#lang-info a {
+	text-decoration: none;
+}
