@@ -34,6 +34,9 @@ github:
     - [机器学习](https://aaronyang2333.github.io/INF_552/), [数据管理](https://aaronyang2333.github.io/INF_551/)<br>
 - 在学课程: 
     - [数据挖掘](https://aaronyang2333.github.io/INF_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/CSCI_599/) <br>
+- 完成项目:
+    - [基于深度学习的LOL游戏助手]()
+
 <br>
 - <u>硕士预科项目</u>  [已完成 2019.1 至 2019.4]
 - GPA: 3.51 [[PDF](../assets/ia_grade.pdf)]
@@ -50,13 +53,13 @@ github:
 
 ## <span>&#128084;</span>工作经验
 
-### [__银江股份-中央研究院, 杭州, 中国]()  `2017.1 - 2018.4`
+### [__银江股份-中央研究院, 杭州, 中国__]()  `2017.1 - 2018.4`
 _Java Web 后台开发工程师_<br>
 
 主要负责公司大数据产品以及研究课题项目的服务器接口API开发，保证服务高效稳定运行。熟悉前后端分离开发协作模式，精通Springboot快速开发框架和SwaggerAPI文档接口应用，对主流关系型数据库Oracle以及常用格式JSON、XML有相关研究。
 - 完成项目: 
-    - [上海司法行政数据服务网]: 提供公共数据查询接口，权限验证等
-    - [杭州交通卡口研判系统]: 对离线数据进行分析，评价交通状况，判别车牌套用等违法现象。
+    - [_上海司法行政数据服务网__](): 提供公共数据查询接口，权限验证等
+    - [_杭州交通卡口研判系统__](): 对离线数据进行分析，评价交通状况，判别车牌套用等违法现象。
 - 熟练掌握以下工具: 
     - <span><img src="../assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, <span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, <span><img src="../assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, <span><img src="../assets/icons/oracle.png" height="12" width="14">Oracle</span>, <span><img src = "../assets/icons/swagger.png" height="12" width="12"> Swagger</span>
 
