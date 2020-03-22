@@ -8,6 +8,8 @@ github:
     url: https://github.com/AaronYang2333
     text: https://github.com/AaronYang2333
 ---
+{% include cv-lang.html %}
+
 # Bo __Yang__ <font size="9">(Aaron)</font>
 
 {% include cv-contact.html %}
