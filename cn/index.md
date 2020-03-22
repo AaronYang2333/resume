@@ -18,11 +18,11 @@ github:
 #### __希望作为<u>机器学习工程师（实习）</u> 为团队做出贡献__
 
 ## <span>&#128170;</span>擅长技能
-#### __1. 精通<span><img src="../assets/icons/springboot.png" height="12" width="14"> SpringBoot框架下 以及</span> Django框架下 网站应用后台程序的搭建__
+#### __1. 精通<span><img src="../assets/icons/springboot.png" height="12" width="14"> SpringBoot</span>框架下 以及 <span><img src="../assets/icons/django.png" height="12" width="14"> Django</span>框架下 网站应用后台程序的搭建__
 
-#### __2. 熟练掌握深度学习模型在<span><img src="../assets/icons/tensorflow.png" height="15" width="14"> Tensorflow2框架下的创建和应用</span>__
+#### __2. 熟练掌握深度学习模型在<span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2框架下的创建和应用</span>__
 
-#### __3. 熟悉MapReduce，能够使用<span><img src="../assets/icons/spark.png" height="14" width="14"> Spark</span>对大量数据进行并行处理__
+#### __3. 熟悉MapReduce，能够使用<span><img src="../assets/icons/spark.png" height="14" width="30"> Spark</span>对大量数据进行并行处理__
 
 ## <span>&#127891;</span>教育经历 
 
@@ -33,33 +33,32 @@ github:
 - 已通过课程: 
     - [机器学习](https://aaronyang2333.github.io/INF_552/), [数据管理](https://aaronyang2333.github.io/INF_551/)<br>
 - 在学课程: 
-    - [数据挖掘](https://aaronyang2333.github.io/INF_553/), 
-    - [机器学习应用（游戏方向）](https://aaronyang2333.github.io/CSCI_599/) <br>
+    - [数据挖掘](https://aaronyang2333.github.io/INF_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/CSCI_599/) <br>
 <br>
-- <u>硕士预科项目</u>  [已完成 2019.1 to 2019.4]
+- <u>硕士预科项目</u>  [已完成 2019.1 至 2019.4]
 - GPA: 3.51 [[PDF](../assets/ia_grade.pdf)]
-- Main Courses:
+- 主要课程:
     - [学术写作], [论文阅读], [沟通技巧] <br>
+<br>
 
 ### __太原理工大学 (TYUT), 211, 太原, 中国__ `2013.9 - 2017.6`
 
 - <u>软件工程学士学位</u> [已获得]
 - GPA: 3.56 [[PDF](../assets/typt.pdf)]
-- Main Courses: 
+- 主要课程: 
     - [软件工程导论], [网站应用开发], [数据库基础] <br>
 
 ## <span>&#128084;</span>工作经验
 
-### [__ENJOYOR Company Limited, Hangzhou, China__]()  `2017.1 - 2018.4`
-_Java Web Programer_<br>
+### [__银江股份-中央研究院, 杭州, 中国]()  `2017.1 - 2018.4`
+_Java Web 后台开发工程师_<br>
 
-As a web application backend engineer, I built highly reliable interfaces for __Shanghai Judiciary Data Platform__ Project, accelerating the whole implementation process by 20%. <br/>Benefited from my contribution to that platform, Shanghai citizens are able to get access to some government and judiciary department dataset in a secure and efficient way. And also I participated in some part of the __Hangzhou Traffic Inspection Spot Surveillance System__ project, that system keeps track of the speed of traffic flow in downtwon area and optimize the setting of the traffic lights. <br>
-Skilled: 
-<span><img src="../assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, 
-<span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, 
-<span><img src="../assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, 
-<span><img src="../assets/icons/oracle.png" height="12" width="14">Oracle</span>, 
-<span><img src = "../assets/icons/swagger.png" height="12" width="12"> Swagger</span>
+主要负责公司大数据产品以及研究课题项目的服务器接口API开发，保证服务高效稳定运行。熟悉前后端分离开发协作模式，精通Springboot快速开发框架和SwaggerAPI文档接口应用，对主流关系型数据库Oracle以及常用格式JSON、XML有相关研究。
+- 完成项目: 
+    - [上海司法行政数据服务网]: 提供公共数据查询接口，权限验证等
+    - [杭州交通卡口研判系统]: 对离线数据进行分析，评价交通状况，判别车牌套用等违法现象。
+- 熟练掌握以下工具: 
+    - <span><img src="../assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, <span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, <span><img src="../assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, <span><img src="../assets/icons/oracle.png" height="12" width="14">Oracle</span>, <span><img src = "../assets/icons/swagger.png" height="12" width="12"> Swagger</span>
 
 
 ### [__Briup Technology, Inc., Suzhou, China__]() `2016.9 - 2017.1`

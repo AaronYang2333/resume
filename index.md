@@ -40,6 +40,7 @@ github:
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:
     - [Writing and Grammer], [Reading and Vocabulary], [Communication Skills] <br>
+<br>
 
 ### __Taiyuan University of Technology (TYUT), Taiyuan, China__ `2013.9 - 2017.6`
 
