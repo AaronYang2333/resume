@@ -14,17 +14,17 @@ github:
 
 {% include cv-contact.html %}
 
-## <span>&#127919;</span>Objective
-#### __Applying for a <u>Web Application Developer</u> position__
+## <span>&#127919;</span>求职意向
+#### __希望作为<u>软件工程师</u> 为团队做出贡献__
 
-## <span>&#128170;</span>Skills
-#### __1. Versed in building Web Applications on <span><img src="assets/icons/springboot.png" height="12" width="14"> SpringBoot in JAVA</span> and Django Framework in Python__
+## <span>&#128170;</span>擅长技能
+#### __1. Versed in building Web Applications on <span><img src="../assets/icons/springboot.png" height="12" width="14"> SpringBoot in JAVA</span> and Django Framework in Python__
 
-#### __2. Able to create Machine/Deep Learning model based on <span><img src="assets/icons/tensorflow.png" height="15" width="14"> Tensorflow2</span>__
+#### __2. Able to create Machine/Deep Learning model based on <span><img src="../assets/icons/tensorflow.png" height="15" width="14"> Tensorflow2</span>__
 
-#### __3. Experienced in designing Web Crawlers by using <span><img src="assets/icons/scrapy.png" height="14" width="14"> Scrapy</span>__
+#### __3. Experienced in designing Web Crawlers by using <span><img src="../assets/icons/scrapy.png" height="14" width="14"> Scrapy</span>__
 
-## <span>&#127891;</span>Education 
+## <span>&#127891;</span>教育经历 
 
 ### __University of Southern California (USC), Los Angeles, USA__ `2019.8 - Current`
 
