@@ -154,7 +154,7 @@ li {
 }
 
 #lang-info {
-	text-align: left;
+	text-align: right;
 	position: relative;
 	font-weight: lighter;
 	color: #ccc;
