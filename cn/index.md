@@ -15,40 +15,40 @@ github:
 {% include cv-contact.html %}
 
 ## <span>&#127919;</span>求职意向
-#### __希望作为<u>软件工程师</u> 为团队做出贡献__
+#### __希望作为<u>机器学习工程师（实习）</u> 为团队做出贡献__
 
 ## <span>&#128170;</span>擅长技能
-#### __1. Versed in building Web Applications on <span><img src="../assets/icons/springboot.png" height="12" width="14"> SpringBoot in JAVA</span> and Django Framework in Python__
+#### __1. 精通<span><img src="../assets/icons/springboot.png" height="12" width="14"> SpringBoot框架下 以及</span> Django框架下 网站应用后台程序的搭建__
 
-#### __2. Able to create Machine/Deep Learning model based on <span><img src="../assets/icons/tensorflow.png" height="15" width="14"> Tensorflow2</span>__
+#### __2. 熟练掌握深度学习模型在<span><img src="../assets/icons/tensorflow.png" height="15" width="14"> Tensorflow2框架下的创建和应用</span>__
 
-#### __3. Experienced in designing Web Crawlers by using <span><img src="../assets/icons/scrapy.png" height="14" width="14"> Scrapy</span>__
+#### __3. 熟悉MapReduce，能够使用<span><img src="../assets/icons/spark.png" height="14" width="14"> Spark</span>对大量数据进行并行处理__
 
 ## <span>&#127891;</span>教育经历 
 
-### __University of Southern California (USC), Los Angeles, USA__ `2019.8 - Current`
+### __南加利福尼亚大学 (USC), 洛杉矶, 美国__ `2019.8 - 至今`
 
-- <u>M.S. in Applied Data Science</u> [Current]
+- <u>攻读应用数据科学硕士</u> [在读]
 - GPA: 3.65 [[PDF](../assets/apds_1.pdf)]
-- Passed Courses: 
-    - [Machine Learning](https://aaronyang2333.github.io/INF_552/), [Data Management](https://aaronyang2333.github.io/INF_551/)<br>
-- Feature Courses: 
-    - [Data Mining], [Applied Natural Language Processing]
-    - [Analysis of Algorithms](https://aaronyang2333.github.io/CSCI_570/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/) <br>
+- 已通过课程: 
+    - [机器学习](https://aaronyang2333.github.io/INF_552/), [数据管理](https://aaronyang2333.github.io/INF_551/)<br>
+- 在学课程: 
+    - [数据挖掘](https://aaronyang2333.github.io/INF_553/), 
+    - [机器学习应用（游戏方向）](https://aaronyang2333.github.io/CSCI_599/) <br>
 <br>
-- <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
+- <u>硕士预科项目</u>  [已完成 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](../assets/ia_grade.pdf)]
 - Main Courses:
-    - [Writing and Grammer], [Reading and Vocabulary], [Communication Skills] <br>
+    - [学术写作], [论文阅读], [沟通技巧] <br>
 
-### __Taiyuan University of Technology (TYUT), Taiyuan, China__ `2013.9 - 2017.6`
+### __太原理工大学 (TYUT), 211, 太原, 中国__ `2013.9 - 2017.6`
 
-- <u>B.S. in Software Engineering</u> [Finished]
+- <u>软件工程学士学位</u> [已获得]
 - GPA: 3.56 [[PDF](../assets/typt.pdf)]
 - Main Courses: 
-    - [Software Engineering], [WebApp Development], [Foundations of Database] <br>
+    - [软件工程导论], [网站应用开发], [数据库基础] <br>
 
-## <span>&#128084;</span>Experience
+## <span>&#128084;</span>工作经验
 
 ### [__ENJOYOR Company Limited, Hangzhou, China__]()  `2017.1 - 2018.4`
 _Java Web Programer_<br>
