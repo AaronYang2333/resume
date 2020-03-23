@@ -19,7 +19,7 @@ phone: 17682349727
 #### __希望作为<u>机器学习工程师（实习）</u> 为团队做出贡献__
 
 ## <span>&#128170;</span>擅长技能
-#### __1. 精通<span><img src="../assets/icons/springboot.png" height="12" width="14"> SpringBoot</span>框架下 以及 <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>框架下 网站应用后台程序的搭建__
+#### __1. 精通<span><img src="../assets/icons/springboot.png" height="15" width="16"> SpringBoot</span>框架下 以及 <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>框架下 网站应用后台程序的搭建__
 
 #### __2. 熟练掌握深度学习模型在<span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2框架下的创建和应用</span>__
 
