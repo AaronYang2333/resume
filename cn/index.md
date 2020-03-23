@@ -18,11 +18,11 @@ github:
 #### __希望作为<u>机器学习工程师（实习）</u> 为团队做出贡献__
 
 ## <span>&#128170;</span>擅长技能
-#### __1. 精通<span><img src="../assets/icons/springboot.png" height="12" width="14"> SpringBoot</span>框架下 以及 <span><img src="../assets/icons/django.png" height="12" width="14"> Django</span>框架下 网站应用后台程序的搭建__
+#### __1. 精通<span><img src="../assets/icons/springboot.png" height="12" width="14"> SpringBoot</span>框架下 以及 <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>框架下 网站应用后台程序的搭建__
 
 #### __2. 熟练掌握深度学习模型在<span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2框架下的创建和应用</span>__
 
-#### __3. 熟悉MapReduce，能够使用<span><img src="../assets/icons/spark.png" height="14" width="30"> Spark</span>对大量数据进行并行处理__
+#### __3. 熟悉MapReduce，能够使用<span><img src="../assets/icons/spark.png" height="15" width="30"> Spark</span>对大量数据进行并行处理__
 
 ## <span>&#127891;</span>教育经历 
 
@@ -35,7 +35,7 @@ github:
 - 在学课程: 
     - [数据挖掘](https://aaronyang2333.github.io/INF_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/CSCI_599/) <br>
 - 完成项目:
-    - [基于深度学习的LOL游戏助手](https://www.bilibili.com/video/av97564879)
+    - [基于深度学习的LOL游戏助手](https://www.bilibili.com/video/av97564879): 基于图像识别，和目标检测的桌面应用
 
 <br>
 - <u>硕士预科项目</u>  [已完成 2019.1 至 2019.4]
@@ -51,31 +51,31 @@ github:
 - 主要课程: 
     - [软件工程导论], [网站应用开发], [数据库基础] <br>
 - 完成项目:
-    - [__Hello Hell__](https://aaronyang2333.github.io/INF_553/): 一款2.5D塔防类安卓端游戏APP，是一款从UI设计绘制，到模型修改制作，再到编码测试，独立完成的手机游戏，并在苏软程序设计大赛（移动娱乐类）中获得一等奖。
+    - [__Hello Hell__](https://aaronyang2333.github.io/INF_553/): 一款2.5D塔防类安卓端游戏APP，是一款从UI设计绘制，到模型修改制作，再到编码测试，<br>独立完成的手机游戏，并在苏软程序设计大赛（移动娱乐类）中获得一等奖。
 
 ## <span>&#128084;</span>工作经验
 
 ### [__银江股份有限公司-中央研究院, 杭州, 中国__]()  `2017.1 - 2018.4`
 _Java Web 后台开发工程师_<br><br>
 
-主要负责公司大数据产品以及研究课题项目的服务器接口API开发，保证服务高效稳定运行。熟悉前后端分离开发协作模式，精通Springboot快速开发框架和SwaggerAPI文档接口应用，对主流关系型数据库Oracle以及常用格式JSON、XML有相关研究。
+主要负责公司大数据产品以及研究课题项目的服务器接口API开发，保证服务高效稳定运行。<br>熟悉前后端分离开发协作模式，精通Springboot快速开发框架和SwaggerAPI文档接口应用。<br>对主流关系型数据库Oracle以及常用格式JSON、XML有相关研究。
 - 完成项目: 
-    - [__上海司法行政数据服务网__](): 法行政数据服务网的主要功能是整合司法局、监狱局、法院、公证处、调解办等职能机构数据资源，构建信息数据可视化平台，帮助市民处理相关司法程序更便捷。
-    - [__Enloop-iEx信息交换平台__](): 信息交换平台将各地分散的信息系统的数据整合汇聚并使用通用工具生成接口API，将收集到的接口内的数据进行清洗和脱敏，以服务的方式提供给需要的用户群体。
-    - [__杭州市卡口流量分析研判平台__](): 对分析道路交通上部署的摄像机采集到的数据，对市内外交通流量进行分析和预测，为交管部门提供可视化信息，并可以实现对套牌车，冒牌车的定位等功能。
+    - [__上海司法行政数据服务网__](): 法行政数据服务网的主要功能是整合司法局、监狱局、法院、公证处、调解办等职能机构数据资源，<br>构建信息数据可视化平台，帮助市民处理相关司法程序更便捷。
+    - [__Enloop-iEx信息交换平台__](): 信息交换平台将各地分散的信息系统的数据整合汇聚并使用通用工具生成接口API，<br>将收集到的接口内的数据进行清洗和脱敏，以服务的方式提供给需要的用户群体。
+    - [__杭州市卡口流量分析研判平台__](): 对分析道路交通上部署的摄像机采集到的数据，对市内外交通流量进行分析和预测，<br>为交管部门提供可视化信息，并可以实现对套牌车，冒牌车的定位等功能。
 - 熟练掌握以下工具: 
     - <span><img src="../assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, <span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, <span><img src="../assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, <span><img src="../assets/icons/oracle.png" height="12" width="14">Oracle</span>, <span><img src = "../assets/icons/swagger.png" height="12" width="12"> Swagger</span>
+<br>
 
 ### [__清泽心雨-智慧校园部门, 太原理工大学, 中国__]() `2015.10 - 2016.6`
 _主要程序_<br><br>
 
-主要完成了对虚拟校园3D漫游项目的功能实现。<br>
-同时按学校要求落地了一款严肃思政类的跑酷游戏， 丰富学生校园生活.<br>
-Skilled: 
-<span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, 
-<span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, 
-<span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,
-<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
+主要负责Unity项目的功能编写和测试。对粒子系统的设计和应用以及游戏特效的实现有特别强的兴趣。
+- 完成项目: 
+    - [__虚拟校园3D漫游项目__](): 在Unity3D引擎中，创建等比例大学校园，让同学们足不出户游览校园。
+    - [__严肃思政类的跑酷游戏__](): 按学校要求落地了一款严肃思政类的跑酷游戏， 丰富学生校园生活
+- 熟练掌握以下工具: 
+    - <span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, <span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, <span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
 
 ## <span>&#128240;</span>专利 & 证书
 
