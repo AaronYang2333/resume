@@ -7,6 +7,7 @@ email:
 github:
     url: https://github.com/AaronYang2333
     text: https://github.com/AaronYang2333
+phone: 17682349727
 ---
 {% include cv-lang.html %}
 
@@ -35,7 +36,7 @@ github:
 - 在学课程: 
     - [数据挖掘](https://aaronyang2333.github.io/INF_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/CSCI_599/) <br>
 - 完成项目:
-    - [基于深度学习的LOL游戏助手](https://www.bilibili.com/video/av97564879): 基于图像识别，和目标检测的桌面应用
+    - [基于深度学习的LOL游戏助手](https://www.bilibili.com/video/av97564879): 基于图像识别，和目标检测的MOB游戏辅助应用
 
 <br>
 - <u>硕士预科项目</u>  [已完成 2019.1 至 2019.4]
@@ -60,9 +61,9 @@ _Java Web 后台开发工程师_<br><br>
 
 主要负责公司大数据产品以及研究课题项目的服务器接口API开发，保证服务高效稳定运行。<br>熟悉前后端分离开发协作模式，精通Springboot快速开发框架和SwaggerAPI文档接口应用。<br>对主流关系型数据库Oracle以及常用格式JSON、XML有相关研究。
 - 完成项目: 
-    - [__上海司法行政数据服务网__](): 法行政数据服务网的主要功能是整合司法局、监狱局、法院、公证处、调解办等职能机构数据资源，<br>构建信息数据可视化平台，帮助市民处理相关司法程序更便捷。
-    - [__Enloop-iEx信息交换平台__](): 信息交换平台将各地分散的信息系统的数据整合汇聚并使用通用工具生成接口API，<br>将收集到的接口内的数据进行清洗和脱敏，以服务的方式提供给需要的用户群体。
-    - [__杭州市卡口流量分析研判平台__](): 对分析道路交通上部署的摄像机采集到的数据，对市内外交通流量进行分析和预测，<br>为交管部门提供可视化信息，并可以实现对套牌车，冒牌车的定位等功能。
+    - [__上海司法行政数据服务网__](): 法行政数据服务网的主要功能是整合司法局、监狱局、法院、公证处、<br>调解办等职能机构数据资源，构建信息数据可视化平台，帮助市民处理相关司法程序更便捷。
+    - [__Enloop-iEx信息交换平台__](): 信息交换平台将各地分散的信息系统的数据整合汇聚并使用通用工具生成<br>接口API，将收集到的接口内的数据进行清洗和脱敏，以服务的方式提供给需要的用户群体。
+    - [__杭州市卡口流量分析研判平台__](): 对分析道路交通上部署的摄像机采集到的数据，对市内外交通流量进行<br>分析和预测，为交管部门提供可视化信息，并可以实现对套牌车，冒牌车的定位等功能。
 - 熟练掌握以下工具: 
     - <span><img src="../assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, <span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, <span><img src="../assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, <span><img src="../assets/icons/oracle.png" height="12" width="14">Oracle</span>, <span><img src = "../assets/icons/swagger.png" height="12" width="12"> Swagger</span>
 <br>
@@ -73,15 +74,15 @@ _主要程序_<br><br>
 主要负责Unity项目的功能编写和测试。对粒子系统的设计和应用以及游戏特效的实现有特别强的兴趣。
 - 完成项目: 
     - [__虚拟校园3D漫游项目__](): 在Unity3D引擎中，创建等比例大学校园，让同学们足不出户游览校园。
-    - [__严肃思政类的跑酷游戏__](): 按学校要求落地了一款严肃思政类的跑酷游戏， 丰富学生校园生活
+    - [__严肃思政类的跑酷游戏__](): 按学校要求落地了一款严肃思政类的跑酷游戏， 丰富学生校园生活。
 - 熟练掌握以下工具: 
     - <span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, <span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, <span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
 
-## <span>&#128240;</span>专利 & 证书
+## <span>&#128240;</span>专利 和 证书
 
 ### [__银江股份有限公司, 作为参与者__]()
 - 一种面向数据共享的敏感信息脱敏方法及系统, 专利号 [No. CN107480549A], `12/2017`<br>
 - 基于卡口数据的城市道路交通拥堵指数计算方法, 专利号 [No. CN105869405B], `03/2018`<br>
 
 ### [__软件设计师(中级), 中国__]()
-全国计算机技术与软件专业技术资格证书, No. 1750500462. `02/2018` [[PDF](../assets/nptq.pdf)]
+- 全国计算机技术与软件专业技术资格证书, No. 1750500462. `02/2018` [[PDF](../assets/nptq.pdf)]

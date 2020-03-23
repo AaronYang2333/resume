@@ -15,14 +15,14 @@ github:
 {% include cv-contact.html %}
 
 ## <span>&#127919;</span>Objective
-#### __Applying for a <u>Web Application Developer</u> position__
+#### __Applying for a <u>Software Engineering (Machine Learning)</u> position__
 
 ## <span>&#128170;</span>Skills
-#### __1. Versed in building Web Applications on <span><img src="assets/icons/springboot.png" height="12" width="14"> SpringBoot in JAVA</span> and Django Framework in Python__
+#### __1. Versed in building Web Applications on <span><img src="assets/icons/springboot.png" height="12" width="14"> SpringBoot in JAVA</span> and <span><img src="assets/icons/django.png" height="15" width="30"> Django</span> Framework in Python__
 
-#### __2. Able to create Machine/Deep Learning model based on <span><img src="assets/icons/tensorflow.png" height="15" width="14"> Tensorflow2</span>__
+#### __2. Able to create and apply Machine/Deep Learning model based on <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>__
 
-#### __3. Experienced in designing Web Crawlers by using <span><img src="assets/icons/scrapy.png" height="14" width="14"> Scrapy</span>__
+#### __3. Experienced in big dataset parallel processing by using <span><img src="assets/icons/spark.png" height="15" width="30"> Spark</span>__
 
 ## <span>&#127891;</span>Education 
 
@@ -33,8 +33,9 @@ github:
 - Passed Courses: 
     - [Machine Learning](https://aaronyang2333.github.io/INF_552/), [Data Management](https://aaronyang2333.github.io/INF_551/)<br>
 - Feature Courses: 
-    - [Data Mining], [Applied Natural Language Processing]
-    - [Analysis of Algorithms](https://aaronyang2333.github.io/CSCI_570/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/) <br>
+    - [Data Mining](https://aaronyang2333.github.io/INF_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/) <br>
+- Course Project:
+    - [League of Legends Overlay Assistant](https://www.bilibili.com/video/av97564879): a desktop application based on image classification and object dectection algorithm.
 <br>
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
@@ -48,50 +49,39 @@ github:
 - GPA: 3.56 [[PDF](assets/typt.pdf)]
 - Main Courses: 
     - [Software Engineering], [WebApp Development], [Foundations of Database] <br>
+- Finsihed Project:
+    - [__Hello Hell__](https://aaronyang2333.github.io/INF_553/):  This is a 2.5D tower defense mobile game app based on the Android platform. From sketch to GUI, from prototype to implement, all the thing was done by myself. In the end, I sold it to a company to pay for my tuition.
 
 ## <span>&#128084;</span>Experience
 
 ### [__ENJOYOR Company Limited, Hangzhou, China__]()  `2017.1 - 2018.4`
-_Java Web Programer_<br>
+_Java Web Programer_<br><br>
 
-As a web application backend engineer, I built highly reliable interfaces for __Shanghai Judiciary Data Platform__ Project, accelerating the whole implementation process by 20%. <br/>Benefited from my contribution to that platform, Shanghai citizens are able to get access to some government and judiciary department dataset in a secure and efficient way. And also I participated in some part of the __Hangzhou Traffic Inspection Spot Surveillance System__ project, that system keeps track of the speed of traffic flow in downtwon area and optimize the setting of the traffic lights. <br>
-Skilled: 
-<span><img src="assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, 
-<span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, 
-<span><img src="assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, 
-<span><img src="assets/icons/oracle.png" height="12" width="14">Oracle</span>, 
-<span><img src = "assets/icons/swagger.png" height="12" width="12"> Swagger</span>
-
-
-### [__Briup Technology, Inc., Suzhou, China__]() `2016.9 - 2017.1`
-_Software Engineering Intern_<br>
-
-Assisted engineer Xu build __Bill System of China Telecom Crop.__ project for CETxcel. And also handled various technical affairs as well, such as organize requirement documents and write reports.<br>
-Skilled: 
-<span><img src="https://img.icons8.com/color/14/000000/java-coffee-cup-logo.png"> JAVA</span>, 
-<span><img src="https://img.icons8.com/ios/14/000000/placeholder-thumbnail-xml.png"> XML</span>,
-<span><img src="assets/icons/mysql.png" height="12" width="12"> Mysql</span>, 
-<span><img src="https://img.icons8.com/color/14/000000/tomcat.png"> Tomcat</span>, 
-<span><img src = "assets/icons/log4j.png" height="12" width="12"> Log4J</span>
-
+As a web application backend engineer, I was responsible to build highly reliable rest API for the company's several bigdata products. Also, I joined so many meetings to discuss how to design and implement applications in different fields. Benefited from my contribution to these meetings, customers always have a great user experience. <br/>Benefited from my contribution to that platform, Shanghai citizens are able to get access to some government and judiciary department dataset in a secure and efficient way. And also I participated in some part of the  project, that system keeps track of the speed of traffic flow in downtwon area and optimize the setting of the traffic lights. <br>
+- Finished Project:
+    - [__Shanghai Judiciary Data Platform__](): The main role of this platform is to integrate the data resources of the judicial bureau, prison bureau, court, notary office, mediation office, and other functional institutions, and to build a visualization tool helping Shanghai citizens are able to get access to some dataset in a secure and efficient way.
+    - [__Enloop-iEx信息交换平台__](): The information exchange platform integrates the data from a variety of information systems in different fields and provides a restful API for developers to get related data at one time. during the process, the platform will clean the data and categorize data into different classes.
+    - [__Hangzhou Traffic Inspection Spot Surveillance System__](): This system keeps track of the speed of traffic flow in the downtown area and optimizes the setting of the traffic lights. Also, provides a visualization tool for the traffic department, helping them to locate some unusual vehicle.
+- Skilled: 
+    - <span><img src="assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, <span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, <span><img src="assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, <span><img src="assets/icons/oracle.png" height="12" width="14">Oracle</span>, <span><img src = "assets/icons/swagger.png" height="12" width="12"> Swagger</span>
+<br>
 
 ### [__Qingze Xinyu Smart Campus Club, TYUT, China__]() `2015.10 - 2016.6`
-_Top Staff of Club_<br>
+_Top Staff of Club_<br><br>
 
-Built an Unity3D application which could visualize the TYUT campus in the AR environment.<br>
-Also the passion for the video game drives me to go further, I developed a tower defense mobile game on Android platform, named ‘__Hello Hell__’, by myself, and had sold it to a tech company before I graduated from my college.<br>
-Skilled: 
-<span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, 
-<span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, 
-<span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,
-<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
+Mainly responsible for the function writing and testing of the Unity project. I ma particularly interested in the design and apply particle systems and game special effects in games.
+
+- Finished Project:
+    - [__虚拟校园3D漫游项目__]():  an Unity3D application which could visualize the TYUT campus in the AR environment.
+    - [__Campus Parkour App__](): According to the requirements of the college, we built a campus parkour mobile game for our students.
+- Skilled: 
+    - <span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, <span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, <span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
 
 ## <span>&#128240;</span>Patents & Certificate
 
 ### [__ENJOYOR Company Limited, as Participant__]()
 - Desensitization System for Data Sharing, Patent [No. CN107480549A], `12/2017`<br>
 - Evaluation of City Congestion Index Based on Monitoring Data, Patent [No. CN105869405B], `03/2018`<br>
-- Screening Fake License plate Based on Monitoring Vehicle Flow Probability, Patent [No. CN1057119489B], `01/2018` <br>
 
 ### [__National Professional and Technician Qualification Test, in China__]()
-Certified as Intermediate Software Designer, No. 1750500462. `02/2018` [[PDF](assets/nptq.pdf)]
+- Certified as Intermediate Software Designer, No. 1750500462. `02/2018` [[PDF](assets/nptq.pdf)]
