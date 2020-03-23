@@ -81,7 +81,7 @@ Mainly responsible for the function writing and testing of the Unity project. I 
 
 ### [__ENJOYOR Company Limited, as Participant__]()
 - Desensitization System for Data Sharing, Patent [No. CN107480549A], `12/2017`<br>
-- Evaluation of City Congestion Index Based on Monitoring Data, Patent [No. CN105869405B], `03/2018`<br>
+- Evaluation of City Congestion Index Based on Monitoring Data, Patent [No. CN105869405B] `03/2018`<br>
 
 ### [__National Professional and Technician Qualification Test, in China__]()
 - Certified as Intermediate Software Designer, No. 1750500462. `02/2018` [[PDF](assets/nptq.pdf)]
