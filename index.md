@@ -36,6 +36,7 @@ github:
     - [Data Mining](https://aaronyang2333.github.io/INF_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/) <br>
 - Course Project:
     - [League of Legends Overlay Assistant](https://www.bilibili.com/video/av97564879): a desktop application based on image classification and object dectection algorithm.
+        - Skilled: <span><img src="assets/icons/tensorflow.png"> Tensorflow2</span>, <span><img src="assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/15/000000/python.png"/> Python3</span>,<span><img src="https://img.icons8.com/metro/15/000000/general-ocr.png"/> OCR</span>
 <br><br>
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
@@ -51,6 +52,8 @@ github:
     - [Software Engineering], [WebApp Development], [Foundations of Database] <br>
 - Finsihed Project:
     - [__Hello Hell__](https://aaronyang2333.github.io/INF_553/):  This is a 2.5D tower defense mobile game app based on the Android platform. From sketch <br>to GUI, from prototype to implement, all the thing was done by myself. <br>In the end, I sold it to a company to pay for my tuition.
+        - Skilled: <span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, <span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, <span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
+
 
 ## <span>&#128084;</span>Experience
 
