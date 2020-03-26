@@ -15,7 +15,7 @@
 - GPA: 3.65 [[PDF](assets/apds_1.pdf)]
 - Passed Courses: 
     - [Machine Learning](https://aaronyang2333.github.io/INF_552/), [Data Management](https://aaronyang2333.github.io/INF_551/)<br>
-- Feature Courses: 
+- Current Courses: 
     - [Data Mining](https://aaronyang2333.github.io/INF_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/) <br>
 - Course Project:
     - [__League of Legends Overlay Assistant__](https://www.bilibili.com/video/av97564879): a desktop application based on image classification and object dectection algorithm.
@@ -25,7 +25,7 @@
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:
-    - [Writing and Grammer], [Reading and Vocabulary], [Communication Skills] <br>
+    - [Writing and Grammer](), [Reading and Vocabulary](), [Communication Skills]() <br>
 
 ### __Taiyuan University of Technology (TYUT), Taiyuan, China__ `2013.9 - 2017.6`
 
