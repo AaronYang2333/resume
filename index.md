@@ -51,7 +51,7 @@ github:
 - Main Courses: 
     - [Software Engineering], [WebApp Development], [Foundations of Database] <br>
 - Finsihed Project:
-    - [__Hello Hell__](https://aaronyang2333.github.io/INF_553/):  This is a 2.5D tower defense mobile game app based on the Android platform. From sketch <br>to GUI, from prototype to implement, all the thing was done by myself. <br>In the end, I sold it to a company to pay for my tuition.
+    - [__Hello Hell__](https://www.bilibili.com/video/BV1uz411b7Vk):  This is a 2.5D tower defense mobile game app based on the Android platform. From sketch <br>to GUI, from prototype to implement, all the thing was done by myself. <br>In the end, I sold it to a company to pay for my tuition.
         - Skilled: <span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, <span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, <span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
 
 

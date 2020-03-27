@@ -53,7 +53,7 @@ phone: 17682349727
 - 主要课程: 
     - [软件工程导论], [网站应用开发], [数据库基础] <br>
 - 完成项目:
-    - [__Hello Hell__](https://aaronyang2333.github.io/INF_553/): 一款2.5D塔防类安卓端游戏APP，是一款从UI设计绘制，到模型修改制作，再到编码测试，<br>独立完成的手机游戏，并在苏软程序设计大赛（移动娱乐类）中获得一等奖。
+    - [__Hello Hell__](https://www.bilibili.com/video/BV1uz411b7Vk): 一款2.5D塔防类安卓端游戏APP，是一款从UI设计绘制，到模型修改制作，再到编码测试，<br>独立完成的手机游戏，并在苏软程序设计大赛（移动娱乐类）中获得一等奖。
         - 使用: <span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, <span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, <span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
 
 ## <span>&#128084;</span>工作经验
