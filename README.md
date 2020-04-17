@@ -18,7 +18,7 @@
 - Current Courses: 
     - [Data Mining](https://aaronyang2333.github.io/INF_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/)
 - Course Project:
-    - [__League of Legends Overlay Assistant__](https://www.bilibili.com/video/av97564879): a desktop application based on image classification and object dectection algorithm.
+    - [__League of Legends Overlay Assistant__](https://www.bilibili.com/video/BV1fK4y1r769): a desktop application based on image classification and object dectection algorithm.
         - Skilled: <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>,<span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
 <br>
 

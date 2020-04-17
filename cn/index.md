@@ -36,7 +36,7 @@ phone: 17682349727
 - 在学课程: 
     - [数据挖掘](https://aaronyang2333.github.io/INF_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/CSCI_599/) <br>
 - 完成项目:
-    - [基于深度学习的LOL游戏助手](https://www.bilibili.com/video/av97564879): 基于图像识别，和目标检测的MOB游戏辅助应用
+    - [基于深度学习的LOL游戏助手](https://www.bilibili.com/video/BV1fK4y1r769): 基于图像识别，和目标检测的MOB游戏辅助应用
         - 使用: <span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="../assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>,<span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
 
 <br>
