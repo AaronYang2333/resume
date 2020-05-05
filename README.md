@@ -14,11 +14,11 @@
 - <u>M.S. in Applied Data Science</u> [Current]
 - GPA: 3.65 [[PDF](assets/apds_1.pdf)]
 - Passed Courses: 
-    - [Machine Learning](https://aaronyang2333.github.io/INF_552/), [Data Management](https://aaronyang2333.github.io/INF_551/)
+    - [Machine Learning](https://aaronyang2333.github.io/INF_552/), [Data Management](https://aaronyang2333.github.io/INF_551/), [Data Mining](https://aaronyang2333.github.io/INF_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/)
 - Current Courses: 
-    - [Data Mining](https://aaronyang2333.github.io/INF_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/CSCI_599/)
+    - 
 - Course Project:
-    - [__League of Legends Overlay Assistant__](https://www.bilibili.com/video/BV1fK4y1r769): a desktop application based on image classification and object dectection algorithm.
+    - [__League of Legends Overlay Assistant__](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): a desktop application based on image classification and object dectection algorithm.
         - Skilled: <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>,<span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
 <br>
 

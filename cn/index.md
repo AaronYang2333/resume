@@ -32,11 +32,11 @@ phone: 17682349727
 - <u>攻读应用数据科学硕士</u> [在读]
 - GPA: 3.65 [[PDF](../assets/apds_1.pdf)]
 - 已通过课程: 
-    - [机器学习](https://aaronyang2333.github.io/INF_552/), [数据管理](https://aaronyang2333.github.io/INF_551/)<br>
+    - [机器学习](https://aaronyang2333.github.io/INF_552/), [数据管理](https://aaronyang2333.github.io/INF_551/), [数据挖掘](https://aaronyang2333.github.io/INF_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/) <br>
 - 在学课程: 
-    - [数据挖掘](https://aaronyang2333.github.io/INF_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/CSCI_599/) <br>
+    -  <br>
 - 完成项目:
-    - [基于深度学习的LOL游戏助手](https://www.bilibili.com/video/BV1fK4y1r769): 基于图像识别，和目标检测的MOB游戏辅助应用
+    - [基于深度学习的LOL游戏助手](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): 基于图像识别，和目标检测的MOBA游戏辅助应用
         - 使用: <span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="../assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>,<span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
 
 <br>
