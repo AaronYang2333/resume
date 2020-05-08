@@ -18,11 +18,7 @@
                     {
                         title: 'Resume',
                         url: 'https://aaronyang2333.github.io/resume/cn/',
-                    },
-                    {
-                        title: 'Gallery',
-                        url: 'https://www.cnblogs.com/sight-tech/images/',
-                    },
+                    },                    
                     {
                         title: 'Bilibili',
                         url: 'https://space.bilibili.com/33151567/',
