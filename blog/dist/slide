@@ -1,0 +1,55 @@
+<script src="https://blog-static.cnblogs.com/files/sight-tech/silence.min.js"></script>
+<script type="text/javascript">
+    $.silence({
+        avatar: 'https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200507194526logo128-3.png',
+        favicon: 'https://blog-static.cnblogs.com/files/sight-tech/logo.ico',
+        navigation: [
+            {
+                title: 'Index',
+                url: 'https://www.cnblogs.com/sight-tech'
+            },
+            {
+                title: 'Tags',
+                url: 'https://www.cnblogs.com/sight-tech/tag/'
+            },
+            {
+                title: 'Others',
+                chilren: [
+                    {
+                        title: 'Movies',
+                        url: 'https://www.google.com/',
+                    },
+                    {
+                        title: 'Gallery',
+                        url: 'https://www.cnblogs.com/sight-tech/images/',
+                    },
+                ]
+            },
+        ],
+        catalog: {
+            enable: true,
+            move: true,
+            index: true,
+            level1: 'h2',
+            level2: 'h3',
+            level3: 'h4',
+        },
+        signature: {
+            enable: true,
+            license: '署名-非商业性使用-相同方式共享 4.0 国际',
+            link: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
+            remark: null
+        },
+        sponsor: {
+            enable: true,
+            paypal: 'https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200427035102paypal.jpg',
+            wechat: 'https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200427035119wepay.png',
+            alipay: 'https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200427035048alipay.png'
+        },
+        github: {
+            enable: true,
+            link: 'https://github.com/AaronYang2333',
+	    target: '_self'
+        }
+    });
+</script>
