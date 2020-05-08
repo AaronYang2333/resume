@@ -25,7 +25,7 @@ a:hover {
 }
 
 #header {
-	width: 960px;
+	width: 1080px;
 	position: fixed;
 	top: 0;
 	right: 0;
@@ -148,7 +148,7 @@ a:hover {
 }
 
 #main {
-	width: 960px;
+	width: 1080px;
 	margin: 0 auto;
 	min-height: calc(100% - 135px);
 	padding: 75px 10px 0 10px;
@@ -167,7 +167,7 @@ a:hover {
 #main #mainContent .forFlow {
 	margin: 0 auto;
 	margin-left: 0;
-	max-width: 960px
+	max-width: 1080px
 }
 
 #sideBar {
@@ -496,7 +496,7 @@ a:hover {
 }
 
 #topics .postBody img {
-	max-width: 960px!important;
+	max-width: 1080px!important;
 	display: block;
 	margin: 15px 0 30px 0;
 	border-radius: 3px;
@@ -772,18 +772,15 @@ a:hover {
 
 .esa-toolbar .esa-toolbar-gotop {
 	display: none;
-	background-image: url(data:image/png;
-	base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAACL0lEQVRIS+3TwWvTUBwH8O/vJSLrFBURFPSkoIiCVz3IilObFA/aNR0yEEk6EXfxH1D0L5DdyroMHaJL1a1Ikw3H6kVBHHjyIKKgMEQmbOqsTpv8JOkmna4mvQyRvVv4/fL78L7vPcIKLFoBA6tIUyn/e3H1F+xjYB4B8EyGp53RTkxF2VLkneQLTieYBwmQ/cEMfgsJh41U8k0YFAnJW3YPAb2Afxv5CZj2gdAK8BQgjuia8uJvUCiSt+wrBFxaGOJ8WYeTsQr2kscTAG1k5g+eJLV1dySeN4IaIsxMpuXkQMjW4kFh55aW0/F4vOp/D9wZ2+N67gQB25h5RmJx/Gyn8nQ5aFmk17bXtn7mGyDSAoBh6ppiEBHXDzFvje3wpADaxcAcGAkjoz76HfoDyVkPNsj44QA4GDQzrukZ9WKjKK7fG99crX4vA9gP8FePhJpNKw/r+5cgfXft7cLFOIDdCxFdNjT1atjt6S8W12NeHgXoEAPzgEgZWqK0+N8vZMAqHfAAB6CtzOwBlDUyqhkGLNYt63HLJ8zaBLQxUCWQpmvKsF8PEHNotN0jt0igGBjfIHBKT6t+ZE0t/yxjc3yfQEcBdplEl5FWblOfZWcE+CZAEgMfSXC73pGcbGp6XXMuN7lG3vR+GKBkcGeIz1N+qDRIRF1RH1YUvFwuy6+nKyM1iGepluVMtytJ1rlU4l2UIVF6fOjVdOUCs3gZ+uKjDAzrWUXCElpS/3/i+gn3gM6tu0xSdwAAAABJRU5ErkJggg==)
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAACL0lEQVRIS+3TwWvTUBwH8O/vJSLrFBURFPSkoIiCVz3IilObFA/aNR0yEEk6EXfxH1D0L5DdyroMHaJL1a1Ikw3H6kVBHHjyIKKgMEQmbOqsTpv8JOkmna4mvQyRvVv4/fL78L7vPcIKLFoBA6tIUyn/e3H1F+xjYB4B8EyGp53RTkxF2VLkneQLTieYBwmQ/cEMfgsJh41U8k0YFAnJW3YPAb2Afxv5CZj2gdAK8BQgjuia8uJvUCiSt+wrBFxaGOJ8WYeTsQr2kscTAG1k5g+eJLV1dySeN4IaIsxMpuXkQMjW4kFh55aW0/F4vOp/D9wZ2+N67gQB25h5RmJx/Gyn8nQ5aFmk17bXtn7mGyDSAoBh6ppiEBHXDzFvje3wpADaxcAcGAkjoz76HfoDyVkPNsj44QA4GDQzrukZ9WKjKK7fG99crX4vA9gP8FePhJpNKw/r+5cgfXft7cLFOIDdCxFdNjT1atjt6S8W12NeHgXoEAPzgEgZWqK0+N8vZMAqHfAAB6CtzOwBlDUyqhkGLNYt63HLJ8zaBLQxUCWQpmvKsF8PEHNotN0jt0igGBjfIHBKT6t+ZE0t/yxjc3yfQEcBdplEl5FWblOfZWcE+CZAEgMfSXC73pGcbGp6XXMuN7lG3vR+GKBkcGeIz1N+qDRIRF1RH1YUvFwuy6+nKyM1iGepluVMtytJ1rlU4l2UIVF6fOjVdOUCs3gZ+uKjDAzrWUXCElpS/3/i+gn3gM6tu0xSdwAAAABJRU5ErkJggg==)
 }
 
 .esa-toolbar .esa-toolbar-contents {
-	background-image: url(data:image/png;
-	base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAuUlEQVRIS2NkoANgpIMdDPSxZO6qbQeQffOf+X98SrD3w0WLdnL/5vi7lRo+ZZy7att/ZIMYGRi0k8K8rs1ctZufheH3B6pYMnv1dgdkg/5x/DmV7uv7bdWqVcwfGXltqWIJNQwhZAZ9Ip6QK6ghP4x8Mnfl1gaUJMzIODUpzOv1pG3b2Lk//6+kSnDRJZ/QxSfUCA5CZgyj1EXIq9SQp09w0aUUpk8+oUelRY2IJWQGfSKekCuoIQ8At39XNxqN1mQAAAAASUVORK5CYII=)
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAuUlEQVRIS2NkoANgpIMdDPSxZO6qbQeQffOf+X98SrD3w0WLdnL/5vi7lRo+ZZy7att/ZIMYGRi0k8K8rs1ctZufheH3B6pYMnv1dgdkg/5x/DmV7uv7bdWqVcwfGXltqWIJNQwhZAZ9Ip6QK6ghP4x8Mnfl1gaUJMzIODUpzOv1pG3b2Lk//6+kSnDRJZ/QxSfUCA5CZgyj1EXIq9SQp09w0aUUpk8+oUelRY2IJWQGfSKekCuoIQ8At39XNxqN1mQAAAAASUVORK5CYII=)
 }
 
 .esa-toolbar .esa-toolbar-follow {
-	background-image: url(data:image/png;
-	base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAsUlEQVRIS2NkIAHMXbU98D/D/zn/GRlTU0M91xGrlZFYhSB1c1Zu62RkZChj+M/QmxzuVUKs3lFLRoOLcFoZTV30ySdzV29zY2BgtGT494+ghf8ZGF0YGRmskXP8pG3b2Lm/MqQx/PsvjBGrTEz/Gf8xHmWcs3LrC0ZGRnHC0Y6kAqlYmbNyqx0jI+NBnPr/M/xgpKlPwDYzPiUYRMguHE3Co8E1WtQTzvPDJ5+Q2+4CADezs7EkSK8aAAAAAElFTkSuQmCC)
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAsUlEQVRIS2NkIAHMXbU98D/D/zn/GRlTU0M91xGrlZFYhSB1c1Zu62RkZChj+M/QmxzuVUKs3lFLRoOLcFoZTV30ySdzV29zY2BgtGT494+ghf8ZGF0YGRmskXP8pG3b2Lm/MqQx/PsvjBGrTEz/Gf8xHmWcs3LrC0ZGRnHC0Y6kAqlYmbNyqx0jI+NBnPr/M/xgpKlPwDYzPiUYRMguHE3Co8E1WtQTzvPDJ5+Q2+4CADezs7EkSK8aAAAAAElFTkSuQmCC)
 }
 
 .esa-profile-avatar {
@@ -858,7 +855,7 @@ a:hover {
 	height: auto;
 	padding: 10px 0;
 	background-color: #383330;
-	width: 960px;
+	width: 1080px;
 	text-align: center;
 	border-bottom: 1px #333e36 solid;
 	z-index: 999
@@ -985,7 +982,7 @@ a:hover {
 .esa-post-signature {
 	padding: 12px 24px 12px 30px;
 	margin-top: 15px;
-	margin-left: 5px;
+	margin-left: 10px;
 	border-left-width: 4px;
 	font-size: 15px;
 	line-height: 2;
@@ -1050,7 +1047,7 @@ a:hover {
 	float: none;
 	margin: 35px auto 85px auto;
 	z-index: -1;
-	width: 200px
+	width: 300px
 }
 
 #div_digg .buryit,#div_digg .diggit {
@@ -1069,23 +1066,23 @@ a:hover {
 }
 
 #div_digg .diggit {
-	background-color: #18b566;
-	border-color: #18b566
+	background-color: #3ab2c2;
+	border-color: #3ab2c2
 }
 
 #div_digg .diggit:hover {
-	background-color: #47cb89;
-	border-color: #47cb89
+	background-color: #61b3be;
+	border-color: #61b3be
 }
 
 #div_digg .buryit {
-	background-color: #ed4014;
-	border-color: #ed4014
+	background-color: #dc214c;
+	border-color: #dc214c
 }
 
 #div_digg .buryit:hover {
-	background-color: #f16643;
-	border-color: #f16643
+	background-color: #da5d7a;
+	border-color: #da5d7a
 }
 
 #div_digg .buryit .burynum,#div_digg .diggit .diggnum {
@@ -1094,17 +1091,19 @@ a:hover {
 	font-size: 15px;
 	position: relative;
 	top: 5px;
-	width: 65px
+	width: 95px
 }
 
 #div_digg .diggit .diggnum:before {
-	content: "\63a8\8350";
+	/* content: "\63a8\8350"; */
+	content: "Upvote";
 	font-size: 15px;
 	margin-right: 5px
 }
 
 #div_digg .buryit .burynum:before {
-	content: "\53cd\5bf9";
+	/* content: "\53cd\5bf9"; */
+	content: "DownVote";
 	font-size: 15px;
 	margin-right: 5px
 }
@@ -1538,7 +1537,7 @@ a:hover {
 	height: 70px;
 	line-height: 70px;
 	color: #fff;
-	background: #ffd886 url(http://images.cnblogs.com/cnblogs_com/esofar/1504962/o_like.png) no-repeat center 10px;
+	background: #f7c100 url(https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200508061806o_like.png) no-repeat center 10px;
 	background-size: 20px;
 	border-radius: 35px;
 	text-align: center;
@@ -1552,7 +1551,7 @@ a:hover {
 	top: calc(50% - 30px);
 	width: 24px;
 	height: 24px;
-	background: no-repeat center center url(http://images.cnblogs.com/cnblogs_com/esofar/1504962/o_github.png);
+	background: no-repeat center center url(https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200508061814o_github.png);
 	background-size: contain;
 	opacity: .3;
 	transform: rotatez(15deg)
@@ -1610,15 +1609,15 @@ a:hover {
 }
 
 .esa-sponsor .box .paypal {
-	background-image: url(http://images.cnblogs.com/cnblogs_com/esofar/1504962/o_paypal.png)
+	background-image: url(https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200508061832o_paypal.png)
 }
 
 .esa-sponsor .box .alipay {
-	background-image: url(http://images.cnblogs.com/cnblogs_com/esofar/1504962/o_alipay.png)
+	background-image: url(https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200508061746o_alipay.png)
 }
 
 .esa-sponsor .box .wechat {
-	background-image: url(http://images.cnblogs.com/cnblogs_com/esofar/1504962/o_wechat.png)
+	background-image: url(https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200508061757o_wechat.png)
 }
 
 .esa-sponsor #QRBox {

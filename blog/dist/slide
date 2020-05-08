@@ -1,7 +1,7 @@
 <script src="https://blog-static.cnblogs.com/files/sight-tech/silence.min.js"></script>
 <script type="text/javascript">
     $.silence({
-        avatar: 'https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200507194526logo128-3.png',
+        avatar: 'https://images.cnblogs.com/cnblogs_com/sight-tech/1752047/o_200508063309logo128-5.png',
         favicon: 'https://blog-static.cnblogs.com/files/sight-tech/logo.ico',
         navigation: [
             {
@@ -16,12 +16,16 @@
                 title: 'Others',
                 chilren: [
                     {
-                        title: 'Movies',
-                        url: 'https://www.google.com/',
+                        title: 'Resume',
+                        url: 'https://aaronyang2333.github.io/resume/cn/',
                     },
                     {
                         title: 'Gallery',
                         url: 'https://www.cnblogs.com/sight-tech/images/',
+                    },
+                    {
+                        title: 'Bilibili',
+                        url: 'https://space.bilibili.com/33151567/',
                     },
                 ]
             },
@@ -36,7 +40,7 @@
         },
         signature: {
             enable: true,
-            license: '署名-非商业性使用-相同方式共享 4.0 国际',
+            license: 'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)',
             link: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
             remark: null
         },
