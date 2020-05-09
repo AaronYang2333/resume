@@ -6,11 +6,13 @@
         navigation: [
             {
                 title: 'Index',
-                url: 'https://www.cnblogs.com/sight-tech'
+                url: 'https://www.cnblogs.com/sight-tech',
+                target: '_self'
             },
             {
                 title: 'Tags',
-                url: 'https://www.cnblogs.com/sight-tech/tag/'
+                url: 'https://www.cnblogs.com/sight-tech/tag/',
+                target: '_self'
             },
             {
                 title: 'Others',
@@ -18,10 +20,12 @@
                     {
                         title: 'Resume',
                         url: 'https://aaronyang2333.github.io/resume/cn/',
+                        target: '_blank'
                     },                    
                     {
                         title: 'Bilibili',
                         url: 'https://space.bilibili.com/33151567/',
+                        target: '_blank'
                     },
                 ]
             },
@@ -49,7 +53,7 @@
         github: {
             enable: true,
             link: 'https://github.com/AaronYang2333',
-	    target: '_self'
+	        target: '_blank'
         }
     });
 </script>
