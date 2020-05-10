@@ -26,7 +26,7 @@ a:hover {
 }
 
 #header {
-	width: 1080px;
+	width: 1050px;
 	position: fixed;
 	top: 0;
 	right: 0;
@@ -149,7 +149,7 @@ a:hover {
 }
 
 #main {
-	width: 1080px;
+	width: 1050px;
 	margin: 0 auto;
 	min-height: calc(100% - 135px);
 	padding: 75px 10px 0 10px;
@@ -168,7 +168,7 @@ a:hover {
 #main #mainContent .forFlow {
 	margin: 0 auto;
 	margin-left: 0;
-	max-width: 1080px
+	max-width: 1050px
 }
 
 #sideBar {
@@ -497,7 +497,7 @@ a:hover {
 }
 
 #topics .postBody img {
-	max-width: 1080px!important;
+	max-width: 1050px!important;
 	display: block;
 	margin: 15px 0 30px 0;
 	border-radius: 3px;
@@ -856,7 +856,7 @@ a:hover {
 	height: auto;
 	padding: 10px 0;
 	background-color: #383330;
-	width: 1080px;
+	width: 1050px;
 	text-align: center;
 	border-bottom: 1px #333e36 solid;
 	z-index: 999
