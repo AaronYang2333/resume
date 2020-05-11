@@ -15,6 +15,11 @@
                 target: '_self'
             },
             {
+                title: 'Album',
+                url: 'https://www.cnblogs.com/sight-tech/gallery.html',
+                target: '_self'
+            },
+            {
                 title: 'Others',
                 chilren: [
                     {
