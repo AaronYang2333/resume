@@ -29,7 +29,7 @@ github:
 ### __University of Southern California (USC), Los Angeles, USA__ `2019.8 - Current`
 
 - <u>M.S. in Applied Data Science</u> [Current]
-- GPA: 3.65 [[PDF](assets/apds_1.pdf)]
+- GPA: 3.82 [[PDF](assets/apds_2.pdf)]
 - Passed Courses: 
     - [Machine Learning](https://aaronyang2333.github.io/INF_552/), [Data Management](https://aaronyang2333.github.io/INF_551/), [Data Mining](https://aaronyang2333.github.io/INF_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/)<br>
 - Feature Courses: 
