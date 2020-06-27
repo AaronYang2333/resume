@@ -32,7 +32,7 @@ phone: 17682349727
 - <u>攻读应用数据科学硕士</u> [在读]
 - GPA: 3.82 [[PDF](../assets/apds_2.pdf)]
 - 已通过课程: 
-    - [机器学习](https://aaronyang2333.github.io/INF_552/), [数据管理](https://aaronyang2333.github.io/INF_551/), [数据挖掘](https://aaronyang2333.github.io/INF_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/) <br>
+    - [机器学习](https://aaronyang2333.github.io/DSCI_552/), [数据管理](https://aaronyang2333.github.io/DSCI_551/), [数据挖掘](https://aaronyang2333.github.io/DSCI_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/) <br>
 - 在学课程: 
     -  <br>
 - 完成项目:
