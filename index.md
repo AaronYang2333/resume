@@ -40,6 +40,7 @@ github:
     - [Hybrid Recommendation System](https://github.com/AaronYang2333/DSCI_553/tree/master/project): this is a hybrid recommendation system using switching and cascade policies to recommend restaurants to our potential customers.
         - Skilled: <span><img src="assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> Collaborative Filtering</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> User Profile</span>,<span><img src="assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
 <br>
+
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:
