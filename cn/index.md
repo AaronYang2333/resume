@@ -33,13 +33,15 @@ phone: 17682349727
 - GPA: 3.82 [[PDF](../assets/apds_2.pdf)]
 - 已通过课程: 
     - [机器学习](https://aaronyang2333.github.io/DSCI_552/), [数据管理](https://aaronyang2333.github.io/DSCI_551/), [数据挖掘](https://aaronyang2333.github.io/DSCI_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/) <br>
-- 在学课程: 
-    -  <br>
+- 将学课程: 
+    - [自然语言处理](), [知识图谱]()
 - 完成项目:
     - [基于深度学习的LOL游戏助手](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): 基于图像识别，和目标检测的MOBA游戏辅助应用
         - 使用: <span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="../assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>, <span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
-
+    - [混合推荐系统](https://github.com/AaronYang2333/DSCI_553/tree/master/project): 一个使用 switching 和 cascade 策略的一个推荐系统，可以完成向潜在用户群体推荐餐厅的功能.
+        - 使用: <span><img src="assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> 协同过滤</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> 用户画像</span>,<span><img src="assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
 <br>
+
 - <u>硕士预科项目</u>  [已完成 2019.1 至 2019.4]
 - GPA: 3.51 [[PDF](../assets/ia_grade.pdf)]
 - 主要课程:

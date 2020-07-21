@@ -38,8 +38,8 @@ github:
     - [League of Legends Overlay Assistant](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): a desktop application based on image classification and object dectection algorithm.
         - Skilled: <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>, <span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
     - [Hybrid Recommendation System](https://github.com/AaronYang2333/DSCI_553/tree/master/project): this is a hybrid recommendation system using switching and cascade policies to recommend restaurants to our potential customers.
-        - Skilled: <span><img src="assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> Collaborative Filtering</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> User Profile</span>,<span><img src="assets/icons/xgboost.png" height="18" width="26"> XGboost</span>
-<br><br>
+        - Skilled: <span><img src="assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> Collaborative Filtering</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> User Profile</span>,<span><img src="assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
+<br>
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:
