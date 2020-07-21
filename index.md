@@ -15,12 +15,15 @@ github:
 {% include cv-contact.html %}
 
 ## <span>&#127919;</span>Objective
-#### __Applying for a <u>Recommendation System Engineer</u> position__
+#### __Applying for a <u> Recommendation System Engineer </u> position__
 
 ## <span>&#128170;</span>Skills
 #### __1. Versed in big dataset parallel processing by using <span><img src="assets/icons/spark.png" height="15" width="30"> Spark</span>__
-#### __2. Understand basic machine learning algorithms and several Recall and Sorting policies in the recommendation system.
+
+#### __2. Understand basic machine learning algorithms and several Recall and Sorting policies in the recommendation system.__
+
 #### __3. Familiar with building Web Applications on <span><img src="assets/icons/springboot.png" height="15" width="16"> SpringBoot in JAVA</span> and <span><img src="assets/icons/django.png" height="15" width="30"> Django</span> Framework in Python__
+
 #### __4. Able to create and apply Machine/Deep Learning model based on <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>__
 
 ## <span>&#127891;</span>Education 
