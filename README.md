@@ -5,7 +5,7 @@
 ## <span>&#128170;</span>Skills
 #### __1. Versed in big dataset parallel processing by using <span><img src="assets/icons/spark.png" height="15" width="30"> Spark</span>__
 
-#### __2. Understand basic machine learning algorithms and several Recall and Sorting policies in the recommendation system.__
+#### __2. Understand basic machine learning algorithms and several Recall and Sorting policies in the recommendation system__
 
 #### __3. Familiar with building Web Applications on <span><img src="assets/icons/springboot.png" height="15" width="16"> SpringBoot in JAVA</span> and <span><img src="assets/icons/django.png" height="15" width="30"> Django</span> Framework in Python__
 
@@ -27,6 +27,7 @@
     - [Hybrid Recommendation System](https://github.com/AaronYang2333/DSCI_553/tree/master/project): a hybrid recommendation system using switching and cascade policies to recommend restaurants to Yelp customers.
         - Skilled: <span><img src="assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> Collaborative Filtering</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> User Profile</span>, <span><img src="assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
 <br>
+
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:

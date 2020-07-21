@@ -16,13 +16,13 @@ phone: (+1) 213-477-5744
 {% include cv-contact.html %}
 
 ## <span>&#127919;</span>求职意向
-#### __希望作为<u>机器学习工程师（实习）</u> 为团队做出贡献__
+#### __希望作为<u>推荐系统工程师 </u> 为团队做出贡献__
 
 ## <span>&#128170;</span>擅长技能
 
 #### __1. 熟练掌握MapReduce，能够使用<span><img src="../assets/icons/spark.png" height="15" width="30"> Spark</span>对大量数据进行并行处理__
 
-#### __2. 理解常用机器学习算法以及召回排序策略，并用来 构建推荐系统。__
+#### __2. 理解常用机器学习算法以及召回排序策略，并用来 构建推荐系统__
 
 #### __3. 熟悉<span><img src="../assets/icons/springboot.png" height="15" width="16"> SpringBoot</span>框架下 以及 <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>框架下 网站应用后台程序的搭建__
 
