@@ -15,11 +15,13 @@
 - GPA: 3.82 [[PDF](assets/apds_2.pdf)]
 - Passed Courses: 
     - [Machine Learning](https://aaronyang2333.github.io/DSCI_552/), [Data Management](https://aaronyang2333.github.io/DSCI_551/), [Data Mining](https://aaronyang2333.github.io/DSCI_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/)
-- Current Courses: 
-    - 
+- Future Courses: 
+    - [Natural Language Processing](), [Knowledge Graph]()
 - Course Project:
-    - [__League of Legends Overlay Assistant__](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): a desktop application based on image classification and object dectection algorithm.
+    - [League of Legends Overlay Assistant](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): a desktop application based on image classification and object dectection algorithm.
         - Skilled: <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>, <span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
+    - [Hybrid Recommendation System](https://github.com/AaronYang2333/DSCI_553/tree/master/project): this is a hybrid recommendation system using switching and cascade policies to recommend restaurants to our potential customers.
+        - Skilled: <span><img src="assets/icons/spark.png" height="18" width="16"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> Collaborative Filtering</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> User Profile</span>,<span><img src="assets/icons/xgboost.png" height="18" width="16"> XGboost</span>
 <br>
 
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
