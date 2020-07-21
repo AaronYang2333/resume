@@ -1,11 +1,12 @@
 # This is Bo __Yang__'s resume
 
 ## <span>&#127919;</span>Objective
-#### __Applying for a <u>Software Engineering (Machine Learning)</u> position__
+#### __Applying for a <u>Recommendation System Engineer</u> position__
 ## <span>&#128170;</span>Skills
-#### __1. Versed in building Web Applications on <span><img src="assets/icons/springboot.png" height="15" width="16"> SpringBoot in JAVA</span> and <span><img src="assets/icons/django.png" height="15" width="30"> Django</span> Framework in Python__
-#### __2. Able to create and apply Machine/Deep Learning model based on <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>__
-#### __3. Experienced in big dataset parallel processing by using <span><img src="assets/icons/spark.png" height="15" width="30"> Spark</span>__
+#### __1. Versed in big dataset parallel processing by using <span><img src="assets/icons/spark.png" height="15" width="30"> Spark</span>__
+#### __2. Understand basic machine learning algorithms and several Recall and Sorting policies in the recommendation system.
+#### __3. Familiar with building Web Applications on <span><img src="assets/icons/springboot.png" height="15" width="16"> SpringBoot in JAVA</span> and <span><img src="assets/icons/django.png" height="15" width="30"> Django</span> Framework in Python__
+#### __4. Able to create and apply Machine/Deep Learning model based on <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>__
 
 ## <span>&#127891;</span>Education 
 
@@ -20,10 +21,9 @@
 - Course Project:
     - [League of Legends Overlay Assistant](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): a desktop application based on image classification and object dectection algorithm.
         - Skilled: <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>, <span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
-    - [Hybrid Recommendation System](https://github.com/AaronYang2333/DSCI_553/tree/master/project): this is a hybrid recommendation system using switching and cascade policies to recommend restaurants to our potential customers.
-        - Skilled: <span><img src="assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> Collaborative Filtering</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> User Profile</span>,<span><img src="assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
+    - [Hybrid Recommendation System](https://github.com/AaronYang2333/DSCI_553/tree/master/project): a hybrid recommendation system using switching and cascade policies to recommend restaurants to Yelp customers.
+        - Skilled: <span><img src="assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> Collaborative Filtering</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> User Profile</span>, <span><img src="assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
 <br>
-
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
 - GPA: 3.51 [[PDF](assets/ia_grade.pdf)]
 - Main Courses:
