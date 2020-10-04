@@ -35,7 +35,7 @@ github:
 - Passed Courses: 
     - [Machine Learning](https://aaronyang2333.github.io/DSCI_552/), [Data Management](https://aaronyang2333.github.io/DSCI_551/), [Data Mining](https://aaronyang2333.github.io/DSCI_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/)<br>
 - Future Courses: 
-    - [Natural Language Processing](), [Knowledge Graph]()
+    - [Natural Language Processing](https://aaronyang2333.github.io/CSCI_544/), [Knowledge Graph](https://aaronyang2333.github.io/DSCI_558/)
 - Course Project:
     - [League of Legends Overlay Assistant](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): a desktop application based on image classification and object dectection algorithm.
         - Skilled: <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>, <span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
