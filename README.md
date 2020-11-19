@@ -57,7 +57,6 @@ As a web application backend engineer, I was responsible to build highly reliabl
     - [__Hangzhou Traffic Inspection Spot Surveillance System__](): This system keeps track of the speed of traffic <br>flow in the downtown area and optimizes the setting of the traffic lights. Also, provides a <br>visualization tool for the traffic department, helping them to locate some unusual vehicle.
 - Skilled: 
     - <span><img src="assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, <span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, <span><img src="assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, <span><img src="assets/icons/oracle.png" height="12" width="14">Oracle</span>, <span><img src = "assets/icons/swagger.png" height="12" width="12"> Swagger</span>
- <br>   
 
 ## <span>&#128240;</span>Patents & Certificate
 
