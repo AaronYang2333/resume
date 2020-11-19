@@ -45,7 +45,7 @@ phone: (+1) 213-477-5744
         - 使用: <span><img src="../assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> 协同过滤</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> 用户画像</span>,<span><img src="../assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
     - [Collegiate Explorer](https://github.com/Chit-Chaat/Collegiate_Explorer_APP): 一个WEB应用，亮点在于熔合分散在5个网站中的大学信息，实现相关信息一站式浏览。同时集成了NLP的情感分析和NER .
         - 使用: <span><img src="../assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="../assets/icons/neo4j.png" height="18" width="40"/> Neo4J</span>, <span><img src="../assets/icons/vue.png" height="15" width="15"/> Vue</span>, <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>
-<br>
+<br><br>
 
 - <u>硕士预科项目</u>  [已完成 2019.1 至 2019.4]
 - GPA: 3.51 [[PDF](../assets/ia_grade.pdf)]
