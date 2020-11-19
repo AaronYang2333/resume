@@ -16,17 +16,17 @@ phone: (+1) 213-477-5744
 {% include cv-contact.html %}
 
 ## <span>&#127919;</span>求职意向
-#### __希望作为<u>推荐系统工程师 </u> 为团队做出贡献__
+#### __希望作为<u>数据挖掘工程师 </u> 为团队做出贡献__
 
 ## <span>&#128170;</span>擅长技能
 
 #### __1. 熟练掌握MapReduce，能够使用<span><img src="../assets/icons/spark.png" height="15" width="30"> Spark</span>对大量数据进行并行处理__
 
-#### __2. 理解常用机器学习算法以及召回排序策略，并用来 构建推荐系统__
+#### __2. 理解常用数据挖掘算法和机器学习算法__
 
-#### __3. 熟悉<span><img src="../assets/icons/springboot.png" height="15" width="16"> SpringBoot</span>框架下 以及 <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>框架下 网站应用后台程序的搭建__
+#### __3. 熟悉<span><img src="../assets/icons/springboot.png" height="15" width="16"> SpringBoot</span>框架下 以及 <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>框架下WEB应用后台程序的搭建__
 
-#### __4. 能够使用深度学习模型在<span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2框架下的创建和应用</span>__
+#### __4. 能够使用<span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2 对常见深度学习模型的创建和应用</span>__
 
 ## <span>&#127891;</span>教育经历 
 
@@ -35,14 +35,16 @@ phone: (+1) 213-477-5744
 - <u>攻读应用数据科学硕士</u> [在读]
 - GPA: 3.82 [[PDF](../assets/apds_2.pdf)]
 - 已通过课程: 
-    - [机器学习](https://aaronyang2333.github.io/DSCI_552/), [数据管理](https://aaronyang2333.github.io/DSCI_551/), [数据挖掘](https://aaronyang2333.github.io/DSCI_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/) <br>
+    - [机器学习](https://aaronyang2333.github.io/DSCI_552/), [数据挖掘](https://aaronyang2333.github.io/DSCI_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/), [自然语言处理](https://aaronyang2333.github.io/CSCI_544/), [知识图谱](https://aaronyang2333.github.io/DSCI_558/) <br>
 - 将学课程: 
-    - [自然语言处理](https://aaronyang2333.github.io/CSCI_544/), [知识图谱](https://aaronyang2333.github.io/DSCI_558/)
+    - [数据库](https://aaronyang2333.github.io/CSCI_585/)
 - 完成项目:
     - [基于深度学习的LOL游戏助手](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): 基于图像识别，和目标检测的MOBA游戏辅助应用
         - 使用: <span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="../assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>, <span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
     - [混合推荐系统](https://github.com/AaronYang2333/DSCI_553/tree/master/project): 一个使用 switching 和 cascade 策略的一个推荐系统，可以实现向<img src="https://img.icons8.com/color/18/000000/yelp.png"/> Yelp的潜在用户群体推荐餐厅的功能.
         - 使用: <span><img src="../assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> 协同过滤</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> 用户画像</span>,<span><img src="../assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
+    - [Collegiate Explorer](https://github.com/Chit-Chaat/Collegiate_Explorer_APP): 一个WEB应用，亮点在于熔合分散在5个网站中的大学信息，实现相关信息一站式浏览。同时集成了NLP的情感分析和NER .
+        - 使用: <span><img src="../assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="../assets/icons/neo4j.png" height="18" width="40"/> Neo4J</span>, <span><img src="../assets/icons/vue.png" height="15" width="15"/> Vue</span>, <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>
 <br>
 
 - <u>硕士预科项目</u>  [已完成 2019.1 至 2019.4]
@@ -74,16 +76,6 @@ _Java Web 后台开发工程师_<br><br>
 - 熟练掌握以下工具: 
     - <span><img src="../assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, <span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, <span><img src="../assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, <span><img src="../assets/icons/oracle.png" height="12" width="14">Oracle</span>, <span><img src = "../assets/icons/swagger.png" height="12" width="12"> Swagger</span>
 <br>
-
-### [__清泽心雨-智慧校园部门, 太原理工大学, 中国__]() `2015.10 - 2016.6`
-_主要程序_<br><br>
-
-主要负责Unity项目的功能编写和测试。对粒子系统的设计和应用以及游戏特效的实现有特别强的兴趣。
-- 完成项目: 
-    - [__虚拟校园3D漫游项目__](): 在Unity3D引擎中，创建等比例大学校园，让同学们足不出户游览校园。
-    - [__严肃思政类的跑酷游戏__](): 按学校要求落地了一款严肃思政类的跑酷游戏， 丰富学生校园生活。
-- 熟练掌握以下工具: 
-    - <span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, <span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, <span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
 
 ## <span>&#128240;</span>专利 和 证书
 

@@ -15,7 +15,7 @@ github:
 {% include cv-contact.html %}
 
 ## <span>&#127919;</span>Objective
-#### __Applying for a <u> Recommendation System Engineer </u> position__
+#### __Applying for a <u> Data Engineer </u> position__
 
 ## <span>&#128170;</span>Skills
 #### __1. Versed in big dataset parallel processing by using <span><img src="assets/icons/spark.png" height="15" width="30"> Spark</span>__
@@ -33,14 +33,16 @@ github:
 - <u>M.S. in Applied Data Science</u> [Current]
 - GPA: 3.82 [[PDF](assets/apds_2.pdf)]
 - Passed Courses: 
-    - [Machine Learning](https://aaronyang2333.github.io/DSCI_552/), [Data Management](https://aaronyang2333.github.io/DSCI_551/), [Data Mining](https://aaronyang2333.github.io/DSCI_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/)<br>
+    - [Machine Learning](https://aaronyang2333.github.io/DSCI_552/), [Data Mining](https://aaronyang2333.github.io/DSCI_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/), [Natural Language Processing](https://aaronyang2333.github.io/CSCI_544/), [Knowledge Graph](https://aaronyang2333.github.io/DSCI_558/)<br>
 - Future Courses: 
-    - [Natural Language Processing](https://aaronyang2333.github.io/CSCI_544/), [Knowledge Graph](https://aaronyang2333.github.io/DSCI_558/)
+    - [Database](https://aaronyang2333.github.io/CSCI_585/)
 - Course Project:
     - [League of Legends Overlay Assistant](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): a desktop application based on image classification and object dectection algorithm.
         - Skilled: <span><img src="assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>, <span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
     - [Hybrid Recommendation System](https://github.com/AaronYang2333/DSCI_553/tree/master/project): a hybrid recommendation system using switching and cascade policies to recommend restaurants to <img src="https://img.icons8.com/color/18/000000/yelp.png"/> Yelp customers.
         - Skilled: <span><img src="assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> Collaborative Filtering</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> User Profile</span>, <span><img src="assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
+    - [Collegiate Explorer](https://github.com/Chit-Chaat/Collegiate_Explorer_APP): A WEB application fuses university information scattered in 5 websites, providing one-stop browsing of relevant information. Also integrated NLP sentiment analysis and NER.
+        - Skilled: <span><img src="assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="assets/icons/neo4j.png" height="18" width="40"/> Neo4J</span>, <span><img src="assets/icons/vue.png" height="15" width="15"/> Vue</span>, <span><img src="assets/icons/django.png" height="15" width="30"> Django</span>
 <br>
 
 - <u>Pre-Master Program</u>  [Finished From 2019.1 to 2019.4]
@@ -73,17 +75,6 @@ As a web application backend engineer, I was responsible to build highly reliabl
 - Skilled: 
     - <span><img src="assets/icons/springboot.png" height="12" width="14">SpringBoot 1.5</span>, <span><img src="https://img.icons8.com/color/14/000000/hadoop-distributed-file-system.png">Hadoop</span>, <span><img src="assets/icons/mybatis.png" height="12" width="14">Mybatis 3</span>, <span><img src="assets/icons/oracle.png" height="12" width="14">Oracle</span>, <span><img src = "assets/icons/swagger.png" height="12" width="12"> Swagger</span>
 <br>
-
-### [__Qingze Xinyu Smart Campus Club, TYUT, China__]() `2015.10 - 2016.6`
-_Top Staff of Club_<br><br>
-
-Mainly responsible for the function writing and testing of the Unity project. I ma particularly interested in <br> design and apply particle systems and game special effects in games.
-
-- Finished Project:
-    - [__Virtual Campus__]():  an Unity3D application which could visualize the TYUT campus in the AR environment.
-    - [__Campus Parkour App__](): According to the requirements of the college, we built a campus parkour mobile game for our students.
-- Skilled: 
-    - <span><img src="https://img.icons8.com/ios-filled/14/000000/unity.png"> Unity3D</span>, <span><img src="https://img.icons8.com/color/14/000000/c-sharp-logo.png"> C#</span>, <span><img src="https://img.icons8.com/color/14/000000/autodesk-maya.png"> Autodesk Maya</span>,<span><img src="https://img.icons8.com/color/16/000000/adobe-photoshop.png"> PhotoShop</span>
 
 ## <span>&#128240;</span>Patents & Certificate
 
