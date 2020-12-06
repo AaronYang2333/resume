@@ -41,8 +41,8 @@ phone: (+1) 213-477-5744
     - [基于深度学习的LOL游戏助手](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): 基于图像识别，和目标检测的MOBA游戏辅助应用
         - 使用: <span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2</span>, <span><img src="../assets/icons/pyqt.png"> PyQT5</span>, <span><img src="https://img.icons8.com/color/18/000000/python.png"/> Python3</span>, <span><img src="https://img.icons8.com/metro/18/000000/general-ocr.png"/> OCR</span>
     - [混合推荐系统](https://github.com/AaronYang2333/DSCI_553/tree/master/project): 一个使用 switching 和 cascade 策略的一个推荐系统，可以实现向<img src="https://img.icons8.com/color/18/000000/yelp.png"/> Yelp的潜在用户群体推荐餐厅的功能.
-        - 使用: <span><img src="../assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> 协同过滤</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> 用户画像</span>,<span><img src="../assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
-    - [Collegiate Explorer](https://github.com/Chit-Chaat/Collegiate_Explorer_APP): 一个应用知识图谱的网站，亮点在于熔合分散在5个网站中的大学信息，实现相关信息一站式浏览。<br> 同时集成了NLP的情感分析和NER .
+        - 使用: <span><img src="../assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="https://img.icons8.com/ios/18/000000/pivot-table.png"/> 协同过滤</span>, <span><img src="https://img.icons8.com/windows/18/000000/change-user-male--v1.png"/> 用户画像</span>, <span><img src="../assets/icons/xgboost.png" height="18" width="30"> XGboost</span>
+    - [Collegiate Explorer](https://chit-chaat.github.io/Collegiate_Explorer_APP/): 一个应用知识图谱的网站，亮点在于熔合分散在5个网站中的大学信息，实现相关信息一站式浏览。<br> 同时集成了NLP的情感分析和NER .
         - 使用: <span><img src="../assets/icons/spark.png" height="18" width="26"> Spark</span>, <span><img src="../assets/icons/neo4j.png" height="18" width="40"/> Neo4J</span>, <span><img src="../assets/icons/vue.png" height="15" width="15"/> Vue</span>, <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>
 <br>
 
