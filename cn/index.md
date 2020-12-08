@@ -22,9 +22,9 @@ phone: (+1) 213-477-5744
 
 #### __1. 熟练掌握MapReduce，能够使用<span><img src="../assets/icons/spark.png" height="15" width="30"> Spark</span>对大量数据进行并行处理__
 
-#### __2. 理解常用数据挖掘算法和机器学习算法__
+#### __2. 理解常用数据挖掘算法和机器学习算法，如聚类，推荐系统等__
 
-#### __3. 熟悉<span><img src="../assets/icons/springboot.png" height="15" width="16"> SpringBoot</span>框架下 以及 <span><img src="../assets/icons/django.png" height="15" width="30"> Django</span>框架下WEB应用后台程序的搭建__
+#### __3. 熟悉<span><img src="../assets/icons/django.png" height="15" width="30"> Django </span>框架下 以及 <span><img src="../assets/icons/springboot.png" height="15" width="16"> SpringBoot</span> 框架下WEB应用后台项目的搭建和运行__
 
 #### __4. 能够使用<span><img src="../assets/icons/tensorflow.png" height="18" width="16"> Tensorflow2 对常见深度学习模型的创建和应用</span>__
 
