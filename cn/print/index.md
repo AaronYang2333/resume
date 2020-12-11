@@ -1,5 +1,5 @@
 ---
-layout: cv_cn
+layout: cv_cn_print
 title: Resume
 email: 
     url: mailto:byang971@usc.edu
