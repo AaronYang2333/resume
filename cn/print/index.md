@@ -11,7 +11,7 @@ phone: (+1) 213-477-5744
 ---
 {% include cv-lang-print.html %}
 
-# 杨博 <font size="4">(Aaron)</font>
+# <font size="6">杨博 (Aaron)</font>
 
 {% include cv-contact.html %}
 
