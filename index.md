@@ -28,7 +28,7 @@ github:
 
 ## <span>&#127891;</span>Education 
 
-### __University of Southern California (USC), Los Angeles, USA__ `2019.8 - Current`
+### __University of Southern California (USC), Los Angeles, USA__ `2019.8 - 2021.6`
 
 - <u>M.S. in Applied Data Science</u> [Current]
 - GPA: 3.82 [[PDF](assets/apds_2.pdf)]
