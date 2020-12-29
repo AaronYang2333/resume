@@ -35,7 +35,7 @@ phone: (+1) 213-477-5744
 - <u>攻读应用数据科学硕士</u> [在读]
 - GPA: 3.82 [[PDF](../assets/apds_2.pdf)]
 - 已通过课程: 
-    - [机器学习](https://aaronyang2333.github.io/DSCI_552/), [数据挖掘](https://aaronyang2333.github.io/DSCI_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/), [自然语言处理](https://aaronyang2333.github.io/CSCI_544/), [知识图谱](https://aaronyang2333.github.io/DSCI_558/) <br>
+    - [机器学习], [数据挖掘](https://aaronyang2333.github.io/DSCI_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/), [自然语言处理], [知识图谱] <br>
 
 - 完成项目:
     - [基于深度学习的LOL游戏助手](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/): 基于图像识别，和目标检测的MOBA游戏辅助应用
