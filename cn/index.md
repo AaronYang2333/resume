@@ -33,7 +33,7 @@ phone: (+1) 213-477-5744
 ### __南加利福尼亚大学 (USC), 洛杉矶, 美国__ `2019.8 - 2021.6`
 
 - <u>攻读应用数据科学硕士</u> [在读]
-- GPA: 3.82 [[PDF](../assets/apds_2.pdf)]
+- GPA: 3.71 [[PDF](../assets/apds_3.pdf)]
 - 已通过课程: 
     - [机器学习], [数据挖掘](https://aaronyang2333.github.io/DSCI_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/), [自然语言处理], [知识图谱] <br>
 
