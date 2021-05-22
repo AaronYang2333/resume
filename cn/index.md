@@ -2,12 +2,12 @@
 layout: cv_cn
 title: Resume
 email: 
-    url: mailto:byang971@usc.edu
-    text: byang971@usc.edu
+    url: mailto:aaron19940628@gmail.com
+    text: aaron19940628@gmail.com
 github:
     url: https://github.com/AaronYang2333
     text: https://github.com/AaronYang2333
-phone: (+1) 213-477-5744
+phone: (+86) 173-3570-9727
 ---
 {% include cv-lang.html %}
 
@@ -32,8 +32,8 @@ phone: (+1) 213-477-5744
 
 ### __南加利福尼亚大学 (USC), 洛杉矶, 美国__ `2019.8 - 2021.6`
 
-- <u>攻读应用数据科学硕士</u> [在读]
-- GPA: 3.71 [[PDF](../assets/apds_3.pdf)]
+- <u>应用数据科学硕士学位</u> [已获得]
+- GPA: 3.70 [[PDF](../assets/apds_4.pdf)]
 - 已通过课程: 
     - [机器学习], [数据挖掘](https://aaronyang2333.github.io/DSCI_553/), [机器学习应用（游戏方向）](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/), [自然语言处理], [知识图谱] <br>
 

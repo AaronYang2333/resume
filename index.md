@@ -2,8 +2,8 @@
 layout: cv
 title: Resume
 email: 
-    url: mailto:byang971@usc.edu
-    text: byang971@usc.edu
+    url: mailto:aaron19940628@gmail.com
+    text: aaron19940628@gmail.com
 github:
     url: https://github.com/AaronYang2333
     text: https://github.com/AaronYang2333
@@ -30,8 +30,8 @@ github:
 
 ### __University of Southern California (USC), Los Angeles, USA__ `2019.8 - 2021.6`
 
-- <u>M.S. in Applied Data Science</u> [Current]
-- GPA: 3.71 [[PDF](assets/apds_3.pdf)]
+- <u>M.S. in Applied Data Science</u> [Finished]
+- GPA: 3.70 [[PDF](assets/apds_4.pdf)]
 - Passed Courses: 
     - [Machine Learning], [Data Mining](https://aaronyang2333.github.io/DSCI_553/), [Applied Machine Learning For Games](https://aaronyang2333.github.io/LOL_Overlay_Assistant_Tool/), [Natural Language Processing], [Knowledge Graph]<br>
 
